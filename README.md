@@ -9,7 +9,7 @@ S24B23/013
 ## Introduction
 Microservices architecture is a software design approach where an application is built as a collection of small, independent services. Each service performs a specific function and communicates with other services through APIs. This architecture helps large systems become more scalable, flexible, and easier to maintain.
 
-### How Netflix Uses Microservices
+## How Netflix Uses Microservices
 ### 1. User Account Management
 Netflix uses a dedicated microservice to manage user accounts. This service handles user registration, login authentication, profile management, and subscription information.
 
